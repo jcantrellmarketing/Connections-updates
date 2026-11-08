@@ -1,6 +1,23 @@
 {
-  "version": "0.1.4",
-  "build": 794119760,
-  "apkUrl": "https://github.com/jcantrellmarketing/Connections-updates/releases/download/v0.1.2/com-primio-connections-penqrs-android-release-794112759.apk",
-  "message": "Welcome to the latest version of Connections."
+  "panels": [
+    {
+      "name": "original",
+      "url": "https://s.rocketdns.info:443"
+    },
+    {
+      "name": "premium",
+      "url": "http://pro.business-cloud-8.ru"
+    }
+  ],
+  "ads": [
+    {
+      "title": "1",
+      "url": "https://github.com/jcantrellmarketing/Connections-updates/blob/main/_YOUR2%20(1920%20x%201080%20px)_20261108_010316_0000.mp4"
+    },
+    {
+      "title": "2",
+      "url": "https://github.com/jcantrellmarketing/Connections-updates/blob/main/_YOUR2%20(1920%20x%201080%20px)_20261108_004356_0000.mp4"
+    }
+  ],
+  "background": "thanksgiving"
 }
