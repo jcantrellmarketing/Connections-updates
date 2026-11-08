@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "build": 1,
-  "apkUrl": "https://github.com/jcantrellmarketing/Connections-updates/releases/download/v0.1.0/com-primio-connections-penqrs-android-release-794110739.apk
+  "build": 794110739,
+  "apkUrl": "https://github.com/jcantrellmarketing/Connections-updates/releases/download/v0.1.0/com-primio-connections-penqrs-android-release-794110739.apk",
   "message": "Welcome to the latest version of Connections."
 }
