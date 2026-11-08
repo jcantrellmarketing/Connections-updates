@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "build": 1,
+  "apkUrl": "https://example.com/connections.apk",
+  "message": "Welcome to the latest version of Connections."
+}
